@@ -3,7 +3,7 @@
 ## Description of files:
 
 | Filename(s)                                  | Description of file                                                                         |
-| :---                                         | ---:                                                                                        |
+| :---                                         | :---                                                                                        |
 | Monthly_writes.csv                           | Total bytes written by month                                                                |
 | access.csv                                   | FileID, number of accesses, and maximum observed file size for each file                    |
 | aggstats.csv                                 | Aggregated statistics by application tagged in the trace, column name is self-descriptive   |
