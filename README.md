@@ -1,5 +1,7 @@
 # cheops-cern-trace-data
 
+Data related to the CHEOPS'22 submission: ["Analysis and workload characterization of the CERN EOS storage system"](https://dl.acm.org/doi/abs/10.1145/3503646.3524293)
+
 ## Description of files:
 
 | Filename(s)                                  | Description of file                                                                         |
